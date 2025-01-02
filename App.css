@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+input {
+  @apply bg-gray-100 p-2 rounded-md;
+}
+/* button {
+  @apply bg-blue-500 hover:bg-blue-700 text-white font-bold py-5 ;
+} */
